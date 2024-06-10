@@ -1,0 +1,39 @@
+
+.root {
+    -fx-background-color: #f0f8ff; 
+    -fx-padding: 20px;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+.button {
+    -fx-background-color: #4682b4; 
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-padding: 5px 10px;
+}
+
+.button:hover {
+    -fx-background-color: #4169e1; 
+}
+
+
+.secondary-root {
+    -fx-background-color: #e6e6fa; 
+    -fx-padding: 20px;
+}
+
+.secondary-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333;
+}
+
+.rectangle {
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
